@@ -1,0 +1,2 @@
+blpapi/_internals.cp38-win_amd64.pyd
+blpapi/_versionhelper.cp38-win_amd64.pyd
